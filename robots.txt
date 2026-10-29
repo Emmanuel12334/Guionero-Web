@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emmanuel12334.github.io/Guionero-Web/sitemap.xml

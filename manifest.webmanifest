@@ -1,0 +1,14 @@
+{
+  "name": "Guionero — Tu espacio para contar historias",
+  "short_name": "Guionero",
+  "description": "Web oficial de Guionero Studio.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101014",
+  "theme_color": "#101014",
+  "icons": [
+    {"src":"assets/guionero-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
